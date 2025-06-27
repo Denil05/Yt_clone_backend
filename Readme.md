@@ -1,4 +1,4 @@
-# Backend Day 3
+# Backend
 
 A Node.js backend project for user authentication, profile management, and media uploads, using Express, MongoDB, JWT, and Cloudinary.
 
